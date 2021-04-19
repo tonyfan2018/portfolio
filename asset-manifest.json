@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.303a6520.chunk.css",
+    "main.js": "/static/js/main.6a850900.chunk.js",
+    "main.js.map": "/static/js/main.6a850900.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.03887cff.js",
+    "runtime-main.js.map": "/static/js/runtime-main.03887cff.js.map",
+    "static/js/2.6618b37e.chunk.js": "/static/js/2.6618b37e.chunk.js",
+    "static/js/2.6618b37e.chunk.js.map": "/static/js/2.6618b37e.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.303a6520.chunk.css.map": "/static/css/main.303a6520.chunk.css.map",
+    "static/js/2.6618b37e.chunk.js.LICENSE.txt": "/static/js/2.6618b37e.chunk.js.LICENSE.txt",
+    "static/media/logo.f87a79d1.svg": "/static/media/logo.f87a79d1.svg",
+    "static/media/project-smartwatch.caeb9475.png": "/static/media/project-smartwatch.caeb9475.png",
+    "static/media/smartwatch(DigiCard).fd2d5ce0.mp4": "/static/media/smartwatch(DigiCard).fd2d5ce0.mp4",
+    "static/media/smartwatch-01.850b12aa.png": "/static/media/smartwatch-01.850b12aa.png",
+    "static/media/tonyfanphoto.08843764.jpeg": "/static/media/tonyfanphoto.08843764.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.03887cff.js",
+    "static/js/2.6618b37e.chunk.js",
+    "static/css/main.303a6520.chunk.css",
+    "static/js/main.6a850900.chunk.js"
+  ]
+}
